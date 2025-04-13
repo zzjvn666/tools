@@ -49,6 +49,6 @@ def batch_convert_npy_to_mono16_png(input_folder, output_folder):
 
 
 # 使用示例
-input_folder = r'E:\dis(1)\dis'
-output_folder = r'E:\dis(1)\dis\img'
+input_folder = r'E:\dis(1)\datasets(8)'
+output_folder = r'E:\dis(1)\datasets(8)'
 batch_convert_npy_to_mono16_png(input_folder, output_folder)
